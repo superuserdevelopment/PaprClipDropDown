@@ -1,6 +1,6 @@
-# paperclip_dropdown
+# PaprClip Drop Down UI
 
-A new Flutter project.
+Simple drop down UI in Flutter
 
 ## Getting Started
 
